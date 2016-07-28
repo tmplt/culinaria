@@ -15,7 +15,7 @@ Dependencies
 * Basil
 * Salt
 * White pepper
-* One grated yellow cheese
+* One grated yellow onion
 * Two garlic clefts (optional)
 * Macaroni
 
