@@ -1,22 +1,30 @@
+Recipe by: Tmplt
+
+Serving Size: ?
+
+Preparation Time: ?
+
+Categories: Sauce
+
 Broccoli Sauce & Bacon
 ======================
 A dish perfect with pasta!
 
 Dependencies
 ------------
-* A fist of of frozen broccoli
-* A yellow onion
-* Two garlic clefts
-* One broth die
-* 2dl creme fraiche
-* An amount of bacon to fit your tastes
+| Amount | Measure | Ingredient -- Preparation Method |
+| :----- | :-----: | :------------------------------ |
+| 1      | fist    | frozen broccoli -- thaw and chop up small |
+| 1      |         | yellow onion -- chop up |
+| 2      |         | garlic clefts -- chop or press |
+| 1      |         | broth die |
+| 2      | dl      | creme fraiche |
+| your choice |    | bacon -- cut up and fry |
 
 Build Instructions
 ------------------
-1. Thaw the broccoli and chop it up small
-2. Chop the onion
-3. Chop or press the garlic clefts
-4. Mix everything except for the creme fraiche in a skillet with a bit of oil or butter, let everything soften up
-5. Add the creme fraiche, and a bit of salt and pepper to the mix
-6. Cook on low heat for while
-7. Fry the bacon
+Mix everything except for the creme fraiche in a skillet with a bit of oil or butter.
+Let everything soften up. Then, add the creme fraiche and some salt and pepper to the mix.
+Let the mix cook for a while on low heat.
+Add the bacon as a side dish.
+
