@@ -10,8 +10,6 @@ Dependencies
 * One broth die
 * 2dl creme fraiche
 * An amount of bacon to fit your tastes
-* Salt
-* Black pepper
 
 Build Instructions
 ------------------
