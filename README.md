@@ -1,4 +1,4 @@
-This project is a work-in-progress in any interpretation of the term.
+This project is a work-in-progress in every sense of the term.
 The plan is to digitalize recipes in some simple markdown format from which HTML, PDFs, etc. can be generated from.
 
 While all recipes here should at least be available in English, my Swedish-English in the domain is lacking for the present;
